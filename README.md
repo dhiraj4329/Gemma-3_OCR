@@ -2,10 +2,9 @@
 
 Gemma-3 OCR is a web application that allows you to extract structured text from images using the Gemma-3 Vision Model via Ollama. The app provides a simple interface to upload images and receive well-formatted Markdown output of the recognized text.
 
-<figure class="video_container">
-  <iframe src="C:\AI\Gemma-3_OCR\Demo.mp4" frameborder="0" allowfullscreen="true"> 
-</iframe>
-</figure>
+[![Watch the video]
+(https://raw.githubusercontent.com/dhiraj4329/Gemma-3_OCR/blob/main/thumbnail.png)]
+(https://raw.githubusercontent.com/dhiraj4329/Gemma-3_OCR/blob/main/Demo.mp4)
 ## Features
 
 - **Image Upload:** Easily upload PNG, JPG, or JPEG images from your device.
