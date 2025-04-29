@@ -30,9 +30,10 @@ Gemma-3 OCR is a web application that allows you to extract structured text from
 
 ### Usage
 Run the Streamlit app:
+```sh
 streamlit run app.py
 
-Open your browser to the provided local URL and start extracting text from your images!
+### Open your browser to the provided local URL and start extracting text from your images!
 
 ### License
 This project is for educational and research purposes.
